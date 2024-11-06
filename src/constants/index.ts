@@ -55,7 +55,7 @@ const services: TService[] = [
     icon: mobile,
   },
   {
-    title: "Community Moderator",
+    title: "Community Mod",
     icon: backend,
   },
   {
