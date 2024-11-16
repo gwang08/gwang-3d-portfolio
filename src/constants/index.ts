@@ -9,8 +9,6 @@ import type {
 
 import {
   mobile,
-  backend,
-  creator,
   web,
   javascript,
   typescript,
@@ -18,14 +16,10 @@ import {
   css,
   reactjs,
   tailwind,
-  mongodb,
   git,
-  figma,
-  docker,
   starbucks,
   carrent,
   jobit,
-  threejs,
 } from "../assets";
 
 // Navigation links
@@ -54,14 +48,14 @@ const services: TService[] = [
     title: "React Specialist",
     icon: mobile,
   },
-  {
-    title: "Community Mod",
-    icon: backend,
-  },
-  {
-    title: "Content Creator",
-    icon: creator,
-  },
+  // {
+  //   title: "Community Mod",
+  //   icon: backend,
+  // },
+  // {
+  //   title: "Content Creator",
+  //   icon: creator,
+  // },
 ];
 
 // Technologies that Gwang is skilled in
@@ -90,41 +84,39 @@ const technologies: TTechnology[] = [
     name: "Tailwind CSS",
     icon: tailwind,
   },
-  {
-    name: "MongoDB",
-    icon: mongodb,
-  },
-  {
-    name: "Three JS",
-    icon: threejs,
-  },
+  // {
+  //   name: "MongoDB",
+  //   icon: mongodb,
+  // },
+  // {
+  //   name: "Three JS",
+  //   icon: threejs,
+  // },
   {
     name: "Git",
     icon: git,
   },
-  {
-    name: "Figma",
-    icon: figma,
-  },
-  {
-    name: "Docker",
-    icon: docker,
-  },
+  // {
+  //   name: "Figma",
+  //   icon: figma,
+  // },
+  // {
+  //   name: "Docker",
+  //   icon: docker,
+  // },
 ];
 
 // Professional experience
 const experiences: TExperience[] = [
   {
-    title: "React.js Developer",
-    companyName: "JOINT STOCK COMPANY",
+    title: "Update soon",
+    companyName: "Update soon",
     icon: starbucks,
     iconBg: "#383E56",
-    date: "March 2024 - April 2024",
+    date: "Update soon",
     points: [
-      "Developed and maintained web applications using React.js and related technologies.",
-      "Collaborated with cross-functional teams, including designers, product managers, and other developers, to create high-quality products.",
-      "Implemented responsive design and ensured cross-browser compatibility.",
-      "Participated in code reviews and provided constructive feedback to team members.",
+      "Update soon...",
+     
     ],
   },
 ];
