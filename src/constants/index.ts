@@ -109,13 +109,16 @@ const technologies: TTechnology[] = [
 // Professional experience
 const experiences: TExperience[] = [
   {
-    title: "Update soon",
-    companyName: "Update soon",
+    title: "Work experience",
+    companyName: "FPT Software Ho Chi Minh",
     icon: starbucks,
     iconBg: "#383E56",
-    date: "Update soon",
+    date: "January 2025 - May 2025",
     points: [
-      "Update soon...",
+      "Developed a user interface for an AI-powered chatbot (AI Agent) using React.js.",
+      "Collaborated with backend and AI teams to integrate natural language processing features.",
+      "Focused on creating a clean and responsive UI/UX for real-time chatbot interaction."
+
      
     ],
   },
