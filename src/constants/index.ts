@@ -109,8 +109,8 @@ const technologies: TTechnology[] = [
 // Professional experience
 const experiences: TExperience[] = [
   {
-    title: "Work experience",
-    companyName: "FPT Software Ho Chi Minh",
+    title: "FPT Software Ho Chi Minh",
+    companyName: "",
     icon: starbucks,
     iconBg: "#383E56",
     date: "January 2025 - May 2025",
